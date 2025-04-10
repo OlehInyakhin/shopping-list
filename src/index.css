@@ -143,7 +143,7 @@
 
 @layer base {
   :root {
-    /* Main color palette from ui.md */
+    /* Main color palette */
     --background: 210 40% 98%; /* #F9FAFB - light gray with warm tint */
     --foreground: 222 47% 11%; /* #1F2937 - dark gray */
     --card: 210 40% 98%;
@@ -179,7 +179,7 @@
     --sidebar-ring: 158 84% 52%;
   }
   .dark {
-    /* Dark theme from ui.md */
+    /* Dark theme */
     --background: 222 47% 11%; /* #111827 - deep but not completely black background */
     --foreground: 210 40% 98%;
     --card: 222 47% 11%;
